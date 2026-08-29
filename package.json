@@ -1,0 +1,14 @@
+{
+  "name": "duckdb-railway",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DuckDB HTTP query service template for Railway",
+  "type": "module",
+  "scripts": {
+    "plan": "railway config plan",
+    "apply": "railway config apply"
+  },
+  "devDependencies": {
+    "railway": "^3.11.0"
+  }
+}

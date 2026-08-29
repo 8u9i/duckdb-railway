@@ -16,4 +16,6 @@ data/
 
 # Local tooling
 .commandcode/
-package.json
+
+# Node (Railway IaC SDK)
+node_modules/
