@@ -7,7 +7,7 @@ const duckdbData = volume("duckdb-data", {
 });
 
 const duckdb = service("duckdb", {
-  source: github("YOUR_GITHUB_USERNAME/duckdb-railway", { branch: "main" }),
+  source: github("8u9i/duckdb-railway", { branch: "main" }),
   start: "uvicorn main:app --host 0.0.0.0 --port $PORT",
   healthcheck: "/health",
   volumeMounts: {
