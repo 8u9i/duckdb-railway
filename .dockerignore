@@ -1,0 +1,7 @@
+.git
+.railway
+data
+*.md
+.env
+.venv
+__pycache__
