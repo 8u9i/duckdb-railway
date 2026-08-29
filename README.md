@@ -13,7 +13,7 @@ DuckDB is a high-performance, in-process analytical (OLAP) SQL database. This te
 
 ## Deploy to Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)]([https://railway.com/new](https://railway.com/new/template/duckdb-railway?referralCode=qVHjLS))
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/duckdb-railway?referralCode=qVHjLS)
 
 Or via CLI:
 
